@@ -1,3 +1,29 @@
+# Challenge-Encryptor-ONE-G5
+
+This is a project that is part of the ONE program. The goal is to create a website that serves to both encrypt messages and decrypt them, using skills learned in HTML5, CSS3 and JavaScript.
+
+## Features
+
+- The website has a simple and friendly interface that allows the user to enter a message to encrypt or decrypt it with the required encryption for the project.
+- The website uses the Caesar encryption algorithm to transform the messages according to the given key.
+- The website displays the result of the operation in a text box below the original message.
+- The website has a button to copy the result to the clipboard and another one to clear the text fields.
+- The website is responsive and adapts to different screen sizes.
+
+## Technologies
+
+- HTML5: to create the structure and content of the website.
+- CSS3: to style and design the website, using flexbox and media queries.
+- JavaScript: to add interactivity and logic to the website, using functions, events and the charCodeAt method.
+
+## Installation
+
+To use this project, you can use the following link to GitHub Pages, or clone this repository, or download it as a ZIP file. Then, open the index.html file in your preferred browser and start encrypting or decrypting messages.
+
+## License
+
+This project is licensed under the MIT license. See the LICENSE.md file for details.
+
 # Challenge-Encriptador-ONE-G5
 
 Este es un proyecto que forma parte del programa ONE. El objetivo es crear un sitio web que sirva tanto para encriptar mensajes como para desencriptarlos, usando las habilidades aprendidas en HTML5, CSS3 y JavaScript.
