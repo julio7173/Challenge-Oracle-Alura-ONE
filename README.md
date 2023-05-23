@@ -32,7 +32,7 @@ Este es un proyecto que forma parte del programa ONE. El objetivo es crear un si
 
 - El sitio web tiene una interfaz sencilla y amigable que permite al usuario introducir un mensaje para encriptarlo o desencriptarlo con el crifrado exigido para el proyecto.
 - El sitio web usa el algoritmo de cifrado César para transformar los mensajes según la clave indicada.
-- El sitio web muestra el resultado de la operación en una caja de texto debajo del mensaje original.
+- El sitio web muestra el resultado de la operación en una caja de texto al lado del mensaje original.
 - El sitio web tiene un botón para copiar el resultado al portapapeles y otro para limpiar los campos de texto.
 - El sitio web es responsive y se adapta a diferentes tamaños de pantalla.
 
