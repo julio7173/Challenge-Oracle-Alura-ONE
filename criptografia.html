@@ -5,26 +5,20 @@
         <meta charset="UTF-8">
         <title>Encriptador-Desencriptador</title>
         <link rel="icon" href="favicon.ico" type="image/x-icon">
+        <link rel="stylesheet" href="reset.css">
+        <link rel="stylesheet" href="criptografia.css">
+        <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&family=Source+Code+Pro:wght@300&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&family=Source+Code+Pro:wght@500&display=swap" rel="stylesheet">
     </head>
     <body>
         <main>
-            <img src="Imagenes-Encriptador/2.png" alt="Fondo">
-            <section>
-                <img src="Imagenes-Encriptador/3.png" alt="Astronauta">
-                <img src="Imagenes-Encriptador/5.png" alt="Caja de texto del Astronauta">
-                <label for="caja-astronauta">Ingresa tu texto</label>
-                <textarea name="caja-astronauta" id="caja-astronauta" cols="30" rows="10"></textarea>
-                <img src="Imagenes-Encriptador/7.png" alt="Boton del Astronauta para encriptar">
-                <img src="Imagenes-Encriptador/7.png" alt="Boton del Astronauta para desencriptar">
-            </section>
-            <section>
-                <img src="Imagenes-Encriptador/4.png" alt="Alien">
-                <img src="Imagenes-Encriptador/6.png" alt="Caja de texto del Alien">
-                <label for="caja-alien">No se encontro ningun texto</label>
-                <textarea name="caja-alien" id="caja-alien" cols="30" rows="10"></textarea>
-                <img src="Imagenes-Encriptador/8.png" alt="Boton del Alien para copiar el mensaje del Astronauta">
-                <img src="Imagenes-Encriptador/8.png" alt="Boton del Alien para eliminar el mensaje del Astronauta">
-            </section>
+            <img class="fondo" src="Imagenes-Encriptador/1.png" alt="Imagen de Fondo">
+            <textarea class="texto" id="astronauta" placeholder="Escribe tu texto aquí"></textarea>
+            <textarea class="texto" id="alien" placeholder="Mira tu texto aquí"></textarea>
+            <input class="boton" id="encriptar" type="button" value="Encriptar">
+            <input class="boton" id="desencriptar" type="button" value="Desencriptar">
+            <input class="boton" id="copiar" type="button" value="Copiar">
+            <input class="boton" id="borrar" type="button" value="Borrar">
         </main>
     </body>
     <footer>
