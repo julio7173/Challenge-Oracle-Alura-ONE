@@ -22,7 +22,7 @@ SOFTWARE.
 
 # Licencia MIT
 
-Copyright (c) 2022 Su nombre
+Copyright (c) 2023 Julio Cesar Severiche Orellana
 
 Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia
 de este software y de los archivos de documentación asociados (el "Software"), a comerciar
