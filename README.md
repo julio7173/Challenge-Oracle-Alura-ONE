@@ -27,9 +27,9 @@ Este es un proyecto que forma parte del programa ONE. El objetivo es crear un si
 
 ## Mobile
 
-## Diccionarios
+# Diccionarios
 
-# Encriptador
+## Encriptador
 
 | Llave | Cambio |
 |------------|------------|
@@ -39,7 +39,7 @@ Este es un proyecto que forma parte del programa ONE. El objetivo es crear un si
 | O | ober |
 | u | ufat |
 
-# Desencriptador
+## Desencriptador
 
 | Llave | Cambio |
 |------------|------------|
