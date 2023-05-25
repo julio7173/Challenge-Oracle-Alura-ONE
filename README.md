@@ -16,13 +16,38 @@ Este es un proyecto que forma parte del programa ONE. El objetivo es crear un si
 - CSS3: para dar estilo y diseño al sitio web.
 - JavaScript: para agregar interactividad y lógica al sitio web, usando funciones y eventos.
 
-## Vista Previa
-- Escritorio
+# Vista Previa
+
+## Escritorio
+
 - <p align:"center"><img src="Imagenes-Encriptador/HD1.png"></p>
 - <p align:"center"><img src="Imagenes-Encriptador/HD2.png"></p>
 - <p align:"center"><img src="Imagenes-Encriptador/HD3.png"></p>
 - <p align:"center"><img src="Imagenes-Encriptador/HD4.png"></p>
-- Mobile
+
+## Mobile
+
+## Diccionarios
+
+# Encriptador
+
+| Llave | Cambio |
+|------------|------------|
+| e | enter |
+| i | imes |
+| a | ai |
+| O | ober |
+| u | ufat |
+
+# Desencriptador
+
+| Llave | Cambio |
+|------------|------------|
+| enter | e |
+| imes | i |
+| ai | a |
+| Ober | o |
+| ufat | u |
 ## Instalación
 
 Para usar este proyecto, puedes usar el siguiente enlace a GitHub Pages https://bit.ly/426oVF5, o clonar este repositorio, o descargarlo como un archivo ZIP. Luego, abre el archivo index.html en tu navegador preferido y empieza a encriptar o desencriptar mensajes.
