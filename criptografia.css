@@ -20,9 +20,17 @@
     color: #00cbff;
 }
 
+#astronauta:hover{
+    border-color: #00cbff;
+}
+
 #alien{
     left: 52.9%;
     color: #7ac259;
+}
+
+#alien:hover{
+    border-color: #7ac259;
 }
 
 .boton{
@@ -46,6 +54,15 @@
     color: #00cbff;
 }
 
+#encriptar:hover, #desencriptar:hover{
+    cursor: pointer;
+    border-color: #00cbff;
+}
+
+#encriptar a span::after{
+    content: "Xbrjaoprm";
+}
+
 #copiar{
     left: 40rem;
     color: #7ac259;
@@ -54,4 +71,67 @@
 #borrar{
     left: 55.5rem;
     color: #7ac259;
+}
+
+#copiar:hover, #borrar:hover{
+    cursor: pointer;
+    border-color: #7ac259;
+}
+
+footer{
+    position: relative;
+}
+
+#nave{
+    position: absolute;
+    height: 5.5rem;
+    top: -9rem;
+    left: 45.5%;
+    transition: transform 0.5s;
+}
+
+#nave:hover{
+    cursor: pointer;
+    transform: scale(2) translateY(-50%);
+}
+
+#nave:hover::after{
+    transform: translateY(50%);
+}
+
+#nave.clicked{
+    transform: translateY(-500%);
+}
+
+#nave.clicked::after{
+    transform: scale(2);
+}
+
+#instagram, #linkedin, #github{
+    position: absolute;
+    height: 3.5rem;
+    top: -5rem;
+    visibility: hidden;
+}
+
+#instagram:hover{
+    transform: scale(2)
+}
+
+#instagram.clicked{
+    transform: translateY(-750%);
+    visibility: visible;
+    left: 47.5%;
+}
+
+#linkedin.clicked{
+    transform: translateY(-650%);
+    visibility: visible;
+    left: 47.5%;
+}
+
+#github.clicked{
+    transform: translateY(-550%);
+    visibility: visible;
+    left: 47.5%;
 }
