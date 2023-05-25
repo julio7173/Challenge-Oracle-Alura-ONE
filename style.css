@@ -1,3 +1,10 @@
+#izquierda, #derecha{
+    width: 0;
+    height: 0;
+    position: absolute;
+    visibility: hidden;
+}
+
 .fondo{
     width: 100%;
     position: relative;
@@ -138,9 +145,93 @@ footer{
 
 @media screen and (max-width:480px) {
     .fondo{
-        width: 600%;
-        background-size: auto;
-        background-repeat: no-repeat;
-        background-position: right;
+        position: absolute;
+        visibility: hidden;
+        top: 5rem;
+    }
+
+    #izquierda, #derecha{
+        visibility: visible;
+        width: auto;
+        height: auto;
+    }
+
+    #derecha{
+        top: 65rem;
+    }
+
+    .texto{
+        width: 21rem;
+        height: 39rem;
+        padding: 60px 50px;
+        font-size: 40px;
+    }
+
+    #astronauta{
+        left: 28.7rem;
+    }
+
+    #alien{
+        top: 65rem;
+        left: 1.7%;
+    }
+
+    .boton{
+        width: 22rem;
+        height: 8.8rem;
+    }
+
+    #encriptar, #desencriptar{
+        top: 48.3rem;
+    }
+
+    #encriptar{
+        font-size: 45px;
+        left: 9rem;
+    }
+
+    #desencriptar{
+        font-size: 2.5rem;
+        left: 33.5rem;
+    }
+
+    #copiar, #borrar{
+        font-size: 45px;
+        top: 113.3rem;
+    }
+
+    #copiar{
+        left: 0rem;
+    }
+
+    #borrar{
+        left: 25rem;
+    }
+
+    #nave{
+        width: 9rem;
+        height: 9rem;
+        top: 122rem;
+        left: 48rem;
+    }
+
+    #nave:hover{
+        cursor: pointer;
+        transform: scale(1.5) translateY(-50%);
+    }
+
+    #nave.clicked{
+        transform: translateY(-55rem);
+    }
+
+    #instagram, #linkedin, #github{
+        width: 7rem;
+        height: 7rem;
+        top: 110rem;
+    }
+
+    #instagram.clicked, #linkedin.clicked, #github.clicked{
+        top: 130rem;
+        left: 49rem;
     }
 }

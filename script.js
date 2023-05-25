@@ -1,3 +1,7 @@
+window.onload = function() {
+    alert("¡Solo letras minúsculas y sin acentos!");
+  }
+
 function mostrarRedes(){
     var nave = document.getElementById("nave");
     var instagram = document.getElementById("instagram");
