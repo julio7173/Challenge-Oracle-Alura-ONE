@@ -27,6 +27,12 @@ Este es un proyecto que forma parte del programa ONE. El objetivo es crear un si
 
 ## Mobile
 
+- <p align:"center"><img src="Imagenes-Encriptador/HM1.png"></p>
+- <p align:"center"><img src="Imagenes-Encriptador/HM2.png"></p>
+- <p align:"center"><img src="Imagenes-Encriptador/HM3.png"></p>
+- <p align:"center"><img src="Imagenes-Encriptador/HM4.png"></p>
+- <p align:"center"><img src="Imagenes-Encriptador/HM5.png"></p>
+
 # Diccionarios
 
 ## Encriptador
