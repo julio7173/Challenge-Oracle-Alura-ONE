@@ -135,3 +135,12 @@ footer{
     visibility: visible;
     left: 47.5%;
 }
+
+@media screen and (max-width:480px) {
+    .fondo{
+        width: 600%;
+        background-size: auto;
+        background-repeat: no-repeat;
+        background-position: right;
+    }
+}

@@ -13,8 +13,8 @@ This is a project that is part of the ONE program. The goal is to create a websi
 ## Technologies
 
 - HTML5: to create the structure and content of the website.
-- CSS3: to style and design the website, using flexbox and media queries.
-- JavaScript: to add interactivity and logic to the website, using functions, events and the charCodeAt method.
+- CSS3: to style and design the website.
+- JavaScript: to add interactivity and logic to the website, using functions and events.
 
 ## Installation
 
@@ -39,8 +39,8 @@ Este es un proyecto que forma parte del programa ONE. El objetivo es crear un si
 ## Tecnologías
 
 - HTML5: para crear la estructura y el contenido del sitio web.
-- CSS3: para dar estilo y diseño al sitio web, usando flexbox y media queries.
-- JavaScript: para agregar interactividad y lógica al sitio web, usando funciones, eventos y el método charCodeAt.
+- CSS3: para dar estilo y diseño al sitio web.
+- JavaScript: para agregar interactividad y lógica al sitio web, usando funciones y eventos.
 
 ## Instalación
 
