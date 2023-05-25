@@ -18,7 +18,7 @@ This is a project that is part of the ONE program. The goal is to create a websi
 
 ## Installation
 
-To use this project, you can use the following link to [GitHub Pages] (bit.ly/426oVF5), or clone this repository, or download it as a ZIP file. Then, open the index.html file in your preferred browser and start encrypting or decrypting messages.
+To use this project, you can use the following link to GitHub Pages https://bit.ly/426oVF5, or clone this repository, or download it as a ZIP file. Then, open the index.html file in your preferred browser and start encrypting or decrypting messages.
 
 ## License
 
@@ -44,7 +44,7 @@ Este es un proyecto que forma parte del programa ONE. El objetivo es crear un si
 
 ## Instalación
 
-Para usar este proyecto, puedes usar el siguiente enlace a [GitHub Pages] (bit.ly/426oVF5), o clonar este repositorio, o descargarlo como un archivo ZIP. Luego, abre el archivo index.html en tu navegador preferido y empieza a encriptar o desencriptar mensajes.
+Para usar este proyecto, puedes usar el siguiente enlace a GitHub Pages https://bit.ly/426oVF5, o clonar este repositorio, o descargarlo como un archivo ZIP. Luego, abre el archivo index.html en tu navegador preferido y empieza a encriptar o desencriptar mensajes.
 
 ## Licencia
 
