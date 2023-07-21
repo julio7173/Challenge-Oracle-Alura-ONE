@@ -56,7 +56,7 @@ Este es un proyecto que forma parte del programa ONE. El objetivo es crear un si
 | ufat | u |
 ## Instalación
 
-Para usar este proyecto, puedes usar el siguiente enlace a GitHub Pages https://bit.ly/Encriptador-Desencriptador-Espacial, o clonar este repositorio, o descargarlo como un archivo ZIP. Luego, abre el archivo index.html en tu navegador preferido y empieza a encriptar o desencriptar mensajes.
+Para usar este proyecto, puedes usar el siguiente enlace a GitHub Pages https://bit.ly/Encriptador-Espacial, o clonar este repositorio, o descargarlo como un archivo ZIP. Luego, abre el archivo index.html en tu navegador preferido y empieza a encriptar o desencriptar mensajes.
 
 ## Licencia
 
